@@ -1,0 +1,7 @@
+E:\Projetos\CrewScheduling\CrewScheduling\bin\Debug\CrewScheduling.exe
+E:\Projetos\CrewScheduling\CrewScheduling\bin\Debug\CrewScheduling.pdb
+E:\Projetos\CrewScheduling\CrewScheduling\obj\Debug\ResolveAssemblyReference.cache
+E:\Projetos\CrewScheduling\CrewScheduling\obj\Debug\CrewScheduling.exe
+E:\Projetos\CrewScheduling\CrewScheduling\obj\Debug\CrewScheduling.pdb
+E:\Projetos\CrewScheduling\CrewScheduling\bin\Debug\QuickGraph.dll
+E:\Projetos\CrewScheduling\CrewScheduling\bin\Debug\QuickGraph.xml
